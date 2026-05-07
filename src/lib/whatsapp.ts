@@ -4,5 +4,5 @@ export function openWhatsAppOrder(message: string) {
   // Mark first order offer as used
   localStorage.setItem(OFFER_USED_KEY, "true");
   const text = encodeURIComponent(message);
-  window.open(`https://wa.me/917793051387?text=${text}`, "_blank");
+  window.open(`https://wa.me/919660719462?text=${text}`, "_blank");
 }
