@@ -14,7 +14,7 @@ const socials = [
   },
   {
     icon: MessageCircle,
-    href: "https://wa.me/917793051387",
+    href: "https://wa.me/919660719462",
     label: "WhatsApp",
   },
 ];
