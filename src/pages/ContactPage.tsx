@@ -4,7 +4,7 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 import { motion } from "framer-motion";
 import { MapPin, Phone, Clock, Instagram, Calendar, Mail, MessageCircle, ArrowRight } from "lucide-react";
 
-const WHATSAPP_NUMBER = "917793051387";
+const WHATSAPP_NUMBER = "919660719462";
 
 const contactCards = [
   {
@@ -16,8 +16,8 @@ const contactCards = [
   {
     icon: Phone,
     title: "Call Us",
-    text: "+91 77930 51387",
-    action: { label: "Call Now", href: "tel:+917793051387" },
+    text: "+91 96607 19462",
+    action: { label: "Call Now", href: "tel:+919660719462" },
   },
   {
     icon: MessageCircle,
