@@ -46,7 +46,7 @@ export default function Footer() {
           <div className="text-center md:text-left">
             <h4 className="font-display font-semibold mb-3 md:mb-5 text-white/70 uppercase text-xs md:text-sm tracking-widest">Contact</h4>
             <div className="space-y-2 md:space-y-3 text-xs md:text-sm text-white/35">
-              <p>📞 +91 77930 51387</p>
+              <p>📞 +91 9660719462</p>
               <p>📍 Anand Niketan, 6, Sirsi Rd, Bindayaka, Jaipur, Rajasthan 302041</p>
               <p>🕙 Open until 10:00 PM</p>
             </div>
